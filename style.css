@@ -778,7 +778,7 @@ b{
         flex-wrap: wrap;
     }
     .rectangle{
-        max-width:775px ;
+        width:775px ;
     }
     .play{
         display: flex;
