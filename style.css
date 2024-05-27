@@ -777,9 +777,6 @@ b{
         display: flex;
         flex-wrap: wrap;
     }
-    .rectangle{
-        width:775px ;
-    }
     .play{
         display: flex;
         flex-direction: column;
